@@ -1,0 +1,65 @@
+I"�<blockquote>
+  <p>olooooo</p>
+</blockquote>
+
+<p>Hi 👋! In this post I will show you a workaround that will allow you to edit PDFs inside Notion.</p>
+
+<h2 id="the-story">The story</h2>
+
+<p>I am currently doing my Master Thesis in the field of Machine Learning and I needed a frictionless method to highlight the PDFs that I use for my Academic Research.</p>
+
+<p>One think I love when reading papers is being able to highlight them and make some annotations. For this I tried some</p>
+
+<p>I have tried many times to love <a href="https://www.zotero.org/">Zotero</a> but it never makes things too easy. Then, I discovered the post <a href="https://girlknowstech.com/academic-research-notion/">Notion for Academic Research &amp; Note-Taking</a> written by Marie from Girl Know Tech and I decided to give Notion a try given the fact that I normally used Notion for organizing my life. I am currently using her Marie’s template modified to meet my needs.</p>
+
+<h2 id="what-will-be-the-result">What will be the result</h2>
+
+<ul>
+  <li>You will be able to highlight, underline and comment your PDFs directly inside Notion …</li>
+  <li>… and also inside Google Drive and in Adobe Acroba</li>
+  <li>Your PDFs will be saved on Google Drive and the hightlights will be syncronized.</li>
+  <li>Optional: If you have an iPad and an Apple Pencil, follow the extension of this tutorial.</li>
+</ul>
+
+<h2 id="the-tools-️">The tools 🛠️</h2>
+
+<p>You will need:</p>
+
+<ul>
+  <li>Adobe Acrobat Reader (Free version)</li>
+  <li>A Google Drive account</li>
+  <li>A Notion account</li>
+  <li>(Optional iPad + Apple Pencil, see extension of this tutorial)</li>
+</ul>
+
+<h2 id="the-process">The process</h2>
+
+<ol>
+  <li>
+    <p>Integrate Adobe Acrobat in Google Drive. Go to this <a href="https://acrobat.adobe.com/us/en/business/integrations/google-drive.html#">link</a>, to enable the <a href="https://gsuite.google.com/marketplace/app/adobe_acrobat_%E2%80%93_pdf_and_esignature_tools/80763634447">Add-on</a></p>
+
+    <p><img src="/flexible-jekyll/assets/img/2020-12-26-how-to-edit-pdfs-in-notion-(free)_1.png" alt="" /></p>
+  </li>
+  <li>
+    <p>Make Adobe Acrobat the default PDF reader. Once in Google Drive, go to settings &gt; Manage apps &gt; Enable “Use by default”</p>
+
+    <p><img src="/flexible-jekyll/assets/img/2020-12-26-how-to-edit-pdfs-in-notion-(free)_2.png" alt="" /></p>
+  </li>
+  <li>
+    <p>Once you have the desired PDF document saved in Google Drive, open it (in Google Drive) and copy the URL</p>
+
+    <p><img src="/flexible-jekyll/assets/img/2020-12-26-how-to-edit-pdfs-in-notion-(free)_3.png" alt="" /></p>
+  </li>
+  <li>
+    <p>Paste the link inside your desired Notion’s page and select the option “Create embed”. Stretch the embedded file so it is comfortable to read it and highlight it. You can start highlighting inside Notion!</p>
+
+    <p><img src="/flexible-jekyll/assets/img/2020-12-26-how-to-edit-pdfs-in-notion-(free)_4.png" alt="" /></p>
+  </li>
+  <li>
+    <p>You can see that the changes you make in Notion are updated in the PDF file saved in Google Drive. How awesome is this? 😍</p>
+
+    <p><img src="/flexible-jekyll/assets/img/2020-12-26-how-to-edit-pdfs-in-notion-(free)_5.png" alt="" /></p>
+  </li>
+</ol>
+
+:ET

@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "096d7b00caf6cdfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3694f02d8070c898",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-12-26-how-to-edit-pdfs-in-notion-(free).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29ca77351af16d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b8184c88e99ea65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "485b7d38563e6308",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ad99f74f21d7d52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "f6b1f9dc0e3f62d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "93460da764170104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d3ddaa1966b6b5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2020-12-26-how-to-edit-pdfs-in-notion-(free).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2020-12-26-how-to-edit-pdfs-in-notion-(free).md"
+  ]
+}
