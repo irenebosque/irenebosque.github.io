@@ -2,8 +2,8 @@ title: Irene Bosque
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my personal site!
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hungry-bassi-32d2d9.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
