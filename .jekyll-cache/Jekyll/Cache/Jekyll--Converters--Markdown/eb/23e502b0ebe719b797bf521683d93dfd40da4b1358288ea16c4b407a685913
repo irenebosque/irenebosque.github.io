@@ -1,0 +1,44 @@
+I"N<p>The Gradient Descent is an <strong>optimization</strong> algorithm to find the <strong>minimum point</strong> in a <strong>[[Cost function]].</strong></p>
+
+<p>In the following example we have an error (or cost or loss) function $J(w_1, w_2)$ that depends on the parameters $w_1$ and $w_2$.</p>
+
+<p>The <strong>goal</strong> of all this is to <strong>find</strong> the values for $w_1$ and $w_2$ that gives you the minimum point in the cost fucntion</p>
+
+<p>We take a point  in the function 📍 and we calculate the [[Gradient]] at that point:</p>
+
+<p>\(\nabla J = grad \; J = \left[\frac{\partial J}{\partial w_1}, \frac{\partial J}{\partial w_2}\right]\)
+![[grdient-descent.jpg]]</p>
+
+<blockquote>
+  <p>“point” = parameters $w$</p>
+</blockquote>
+
+<ol>
+  <li>We start by picking a random initial point which is the same as saying we initialize the parameters $w_1$ and $w_2$ randomly.</li>
+  <li>Plug those parameters in the function $J$ and compute the [[Gradient]]</li>
+  <li>
+    <p>Calculate the new parameters according to:</p>
+
+\[x_2 = x_1 - \alpha \nabla F(a)\]
+
+    <ul>
+      <li>$x_2$ = next position or new parameters</li>
+      <li>$x_1$ = current position or current parameters</li>
+      <li>$\alpha$ = size of the step</li>
+      <li>$\nabla F(a)$ = direction of fastest <em>ascest</em></li>
+    </ul>
+
+    <blockquote>
+      <p>$\alpha \nabla F(a)$ means: The step of size $\alpha$ that you take in the direction  $\nabla F(a)$</p>
+    </blockquote>
+  </li>
+</ol>
+
+<p>The <strong>minus sign</strong> is important because the gradient gives you the direction of the <strong>ascent</strong> but ywhat you want is to find the <strong>minimum</strong> point of the function.</p>
+
+<hr />
+
+<p>In the next picture we can see that the parameters $w*$ are the ones that gives you the minimum point of the function:</p>
+
+<p>![[gradient-descent-2.jpg]]</p>
+:ET

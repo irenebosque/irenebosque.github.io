@@ -36,3 +36,6 @@ include:
   - _static
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+# MATHS
+use_mathjax: true
